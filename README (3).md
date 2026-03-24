@@ -1,4 +1,4 @@
-\[\[Open in MATLAB Online]
+[[Open in MATLAB Online]
 
 # Práctica: Sistema cardiovascular
 
