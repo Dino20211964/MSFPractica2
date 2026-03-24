@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica 2: Sistema cardiovascular'
+message: Modelado de sistemas fisiologicos / ingenieria biomedica
+type: software
+authors:
+  - given-names: Victor Silvano
+    family-names: Dino Seanez
+    email: l20211964@tectijuana.edu.mx
+identifiers:
+  - type: url
+    value: 'https://github.com/Dino20211964/MSFPractica2'
+repository-code: 'https://github.com/Dino20211964/MSFPractica2'
+keywords:
+  - Sistema cardiovascular
+  - presion arterial
+  - flujo sanguineo
+  - frecuencia cardiaca
+  - resistencia vascular
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-03-26'
