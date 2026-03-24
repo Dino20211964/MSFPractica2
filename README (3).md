@@ -1,10 +1,10 @@
-\[!\[Open in MATLAB Online]
+\[\[Open in MATLAB Online]
 
 # Práctica: Sistema cardiovascular
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Dino Seanez Victor Silvano \[20211964@tectijuana.edu.mx]; l20211964@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
